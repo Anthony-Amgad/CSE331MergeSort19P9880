@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\UNI\Semester 5\Data Structure\Lab C++\Mergesort\Merge_Sort\Merge_Sort\Source.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Merge_Sort.vcxproj -> D:\UNI\Semester 5\Data Structure\Lab C++\Mergesort\Merge_Sort\Debug\Merge_Sort.exe
